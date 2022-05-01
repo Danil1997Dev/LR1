@@ -1,0 +1,15 @@
+select figure at 1146 1731 8 -branches -sn=1
+undo
+add instance and3 656 704 R0 -sn=1
+BeginGroup
+add wire 656 512 624 512 -sn=1
+add iomarker 624 512 0 Input Unknown -sn=1
+EndGroup
+BeginGroup
+add wire 656 576 624 576 -sn=1
+add iomarker 624 576 0 Input Unknown -sn=1
+EndGroup
+BeginGroup
+add wire 656 640 624 640 -sn=1
+add iomarker 624 640 0 Input Unknown -sn=1
+EndGroup
